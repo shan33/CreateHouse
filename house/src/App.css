@@ -1,4 +1,6 @@
-.App {
+.app {
   text-align: center;
   background-color: #282c34;
+  padding: 0;
+  overflow: hidden;
 }

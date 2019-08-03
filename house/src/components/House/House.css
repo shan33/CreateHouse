@@ -1,0 +1,68 @@
+.house {
+    width: 60vw;
+    height: 80vh;
+    padding: 0 10vw;
+    /*border-right: dotted 1px #eeeeee;*/
+}
+
+.wall {
+    height: 30vh;
+    width: 60vw;
+    border: solid 1px #eee;
+    bottom: 10vh;
+}
+
+.door {
+    position: absolute;
+    width: 5vw;
+    height: 10vh;
+    margin-left: 32vw;
+    margin-top: 20vh;
+    background: slategray;
+}
+
+.door-lock {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    margin-top: 5vh;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 40% 50%;
+    background: #000;
+}
+
+.roof {
+    height: 0vh;
+    border-top: solid 15vh transparent;
+    border-left: solid 30vw transparent;
+    border-right: solid 30vw transparent;
+    border-bottom: solid  15vh #aaaaaa;
+}
+
+.rock-road {
+    padding: 1vh 30vw;
+}
+
+.rock {
+    display: block;
+    width: 5vw;
+    height: 4vh;
+    margin: 1vh 2vw;
+    -webkit-border-radius: 50% 40%;
+    -moz-border-radius: 50% 40%;
+    border-radius: 50% 40%;
+    background: #aaaaaa;
+}
+
+.rock:nth-child(2) {
+    margin-left: 6vw;
+}
+
+.rock:nth-child(3) {
+    margin-left: 5vw;
+}
+
+.rock:nth-child(4) {
+    margin-left: 3vw;
+}

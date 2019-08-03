@@ -1,15 +1,20 @@
 import React from 'react';
 import './App.css';
-import Land from './components/Land';
+import House from './components/House/House';
+import River from './components/River/River';
 
-const person = {
-    name:'xulanshan',
-    age: '18'
-};
+const owner = 'XLS';
 
 class App extends React.Component {
     render() {
-        return <div><Land></Land></div>
+        return (
+            <div className="app">
+                <House owner={owner}></House>
+                <River />
+            </div>
+        )
+
     }
 }
+
 export default App;
