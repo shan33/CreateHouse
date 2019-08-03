@@ -8,5 +8,4 @@ Just for fun
 
 #libraries
 1. react-create-app 
-2. react-boostrap
 3. ... 
