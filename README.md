@@ -17,6 +17,8 @@ words, etc.
 `yarn start`
 
 # learn more 
-### about react: https://reactjs.org/docs/create-a-new-react-app.html
+### about react: 
+    https://reactjs.org/docs/create-a-new-react-app.html
+    https://learnreact.design/#enroll
 ### about me: my own website is being developed... So, you can just send me email.
         Address: jessica33163@163.com
