@@ -13,10 +13,11 @@
 
 ---------------
 ### URL过程
+### 响应码
 
 ### react
     diff算法，栈->链表Fiber
-    conciliation + patch
+    conciliation + patch   commit
     hooks
     hoc
     受控/非受控组件
