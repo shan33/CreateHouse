@@ -1,17 +1,14 @@
-#introduction
+# introduction 
+There are some small components that help me to learn more about react.
+It's a single page, in order to simplify the configuration process, it will install 
+a integrated toolchain CREATE-REACT-APP
 
-This is a project with react framework.
-You can run it and make a new house with components like floor,etc.
-P.S.
-This project doesn`t have backend service
+# use
+`cd house`
+`yarn install`
+`yarn start`
 
-#use
-1. yarn install
-2. yarn start
-
-#why
-Just for fun
-
-#libraries
-1. react-create-app 
-3. ... 
+# learn more 
+###about react: https://reactjs.org/docs/create-a-new-react-app.html
+###about me: my own website is being developed... So, you can just send me email.
+        Address: jessica33163@163.com

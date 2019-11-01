@@ -40,6 +40,13 @@ function Wall() {
     )
 }
 
+function window() {
+    return (
+        <div class="window"></div>
+    )
+}
+
+/* 门 */
 function Door() {
     return (
         <div className="door">
@@ -48,6 +55,7 @@ function Door() {
     )
 }
 
+/* 门锁 */
 function Lock() {
     return <div className="door-lock"></div>
 }
@@ -63,7 +71,6 @@ function Roof() {
 function RockRoad() {
     return (
         <div className="rock-road">
-            <Rock />
             <Rock />
             <Rock />
             <Rock />

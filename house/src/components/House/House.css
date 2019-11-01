@@ -8,8 +8,8 @@
 .wall {
     height: 30vh;
     width: 60vw;
-    border: solid 1px #eee;
     bottom: 10vh;
+    border: solid 1px slategray;
 }
 
 .door {
@@ -61,8 +61,4 @@
 
 .rock:nth-child(3) {
     margin-left: 5vw;
-}
-
-.rock:nth-child(4) {
-    margin-left: 3vw;
 }

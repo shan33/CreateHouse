@@ -1,6 +1,10 @@
 .app {
-  text-align: center;
-  background-color: #282c34;
+  background-color: skyblue;
   padding: 0;
   overflow: hidden;
+}
+
+.header {
+  height: 4vh;
+  width: 100vw;
 }
