@@ -1,7 +1,15 @@
 # introduction 
 There are some small components that help me to learn more about react.
-It's a single page, in order to simplify the configuration process, it will install 
-a integrated toolchain CREATE-REACT-APP
+
+# structure
+###house
+This is a single page website, in order to simplify the configuration process, it will created 
+by a integrated toolchain CREATE-REACT-APP
+###learnMore
+There are some components that created when learning react library
+###docs
+The files under this folder are added when I'm studying the resource code, including pic,
+words, etc.
 
 # use
 `cd house`
